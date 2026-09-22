@@ -74,9 +74,6 @@ It includes:
 - Expense By Year
 
 
-##Dashboard Preview
-
-
 ##Key Business Insights
 
 The analysis indicates that the business experienced substantial establishment-related expenditure during its first year.

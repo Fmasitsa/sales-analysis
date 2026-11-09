@@ -7,8 +7,8 @@ The analysis was conducted to understand the financial performance of the busine
 ##Process
 
 - Cleaned and prepared sales & expense data for analysis using google sheets
-- Developed an interactive Power BI with KPIs & relevant visualizations.
-- Used DAX for analysis, Star scheme style model and cross filtering features to enable exploration of the data.
+- Developed an interactive Power BI with KPIs & relevant visualizations
+- Used DAX for analysis, Star scheme style model and cross filtering features to enable exploration of the data
 - Identified trends and patterns in the data to provide valuable insights for decision making
 
 
